@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\obj\Debug\For-Loop-Ex.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\obj\Debug\For-Loop-Ex.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\bin\Debug\For-Loop-Ex.exe.config
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\bin\Debug\For-Loop-Ex.exe
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\bin\Debug\For-Loop-Ex.pdb
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\obj\Debug\For-Loop-Ex.exe
+C:\Users\Owner\Desktop\For.loop.ex\For-Loop-Ex\For-Loop-Ex\obj\Debug\For-Loop-Ex.pdb

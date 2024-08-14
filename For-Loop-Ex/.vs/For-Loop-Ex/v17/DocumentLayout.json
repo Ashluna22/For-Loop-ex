@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\For.loop.ex\\For-Loop-Ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{710BF227-C00D-4FDD-9D74-1769E54C24A3}|For-Loop-Ex\\For-Loop-Ex.csproj|c:\\users\\owner\\desktop\\for.loop.ex\\for-loop-ex\\for-loop-ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710BF227-C00D-4FDD-9D74-1769E54C24A3}|For-Loop-Ex\\For-Loop-Ex.csproj|solutionrelative:for-loop-ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\For.loop.ex\\For-Loop-Ex\\For-Loop-Ex\\Program.cs",
+              "RelativeDocumentMoniker": "For-Loop-Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\For.loop.ex\\For-Loop-Ex\\For-Loop-Ex\\Program.cs",
+              "RelativeToolTip": "For-Loop-Ex\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:13:10.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
